@@ -2,7 +2,7 @@
 
 A personal portfolio website built with plain HTML, CSS, and JavaScript. It showcases my skills, internship experience, and projects as a Full Stack Developer.
 
-🔗 **Live Demo:** [your-deployment-link.]([https://your-deployment-link.vercel.app](https://purvasarode.vercel.app/))
+🔗 **Live Demo:** [https://purvasarode.vercel.app/]([https://your-deployment-link.vercel.app](https://purvasarode.vercel.app/))
 
 ---
 
